@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeexstantopera01plat_0016.png"; bbox 0 0 1690 2872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 300 892 1389 974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 300 892 1389 974">
+     <span class='ocr_line' id='line_1_1' title="bbox 300 892 1389 974; baseline -0.021 -1"><span class='ocrx_word' id='word_1_1' title='bbox 300 901 638 974; x_wconf 74' lang='grc' dir='ltr'><em>ΣΩΙίΡΑ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 657 900 856 959; x_wconf 85' lang='grc' dir='ltr'><em>ΤΗΣ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 921 892 1389 956; x_wconf 79' lang='grc' dir='ltr'><em>ΕΤΑΙΡΟΣ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 710 1091 985 1104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 710 1091 985 1104">
+     <span class='ocr_line' id='line_1_2' title="bbox 710 1091 985 1104; baseline 0 1768"><span class='ocrx_word' id='word_1_4' title='bbox 710 1091 985 1104; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 171 1212 1543 1293">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 171 1212 1543 1293">
+     <span class='ocr_line' id='line_1_3' title="bbox 171 1212 1543 1293; baseline -0.018 -17"><span class='ocrx_word' id='word_1_5' title='bbox 171 1229 475 1293; x_wconf 68' lang='lat'><em>1111101(</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 509 1212 801 1266; x_wconf 76' lang='grc' dir='ltr'><em>ΡᾸΤΗΣ</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 910 1213 1543 1259; x_wconf 66' lang='grc' dir='ltr'><strong><em>ΠΡΩΤΑΓΟΡΑΣ</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 169 1316 1547 1479">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 169 1316 1547 1479">
+     <span class='ocr_line' id='line_1_4' title="bbox 169 1316 1547 1379; baseline -0.018 0"><span class='ocrx_word' id='word_1_8' title='bbox 169 1327 708 1379; x_wconf 77' lang='grc' dir='ltr'><em>ΑΛΚΙΒΙΑΔΗΣ</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 751 1321 1141 1364; x_wconf 81' lang='grc' dir='ltr'><em>ΚΑΛΛΙΛΣ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1197 1316 1547 1358; x_wconf 82' lang='grc' dir='ltr'><strong><em>ΚΡΙΤΙΑΣ</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 459 1415 1264 1479; baseline -0.014 -8"><span class='ocrx_word' id='word_1_11' title='bbox 459 1426 893 1473; x_wconf 78' lang='grc' dir='ltr'><em>ΠΡΟΔΙΚΟΣ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 957 1415 1264 1479; x_wconf 70' lang='grc' dir='ltr'><em>ΙΠΠΙΛΣ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 733 1635 991 1645">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 733 1635 991 1645">
+     <span class='ocr_line' id='line_1_6' title="bbox 733 1635 991 1645; baseline -0.012 0"><span class='ocrx_word' id='word_1_13' title='bbox 733 1635 991 1645; x_wconf 81' lang='lat'><strong>-.-———-—-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
